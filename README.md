@@ -35,16 +35,16 @@ A `SearchMethod` takes as input an initial `GoalFunctionResult` and returns a fi
 
 ## Citing our work
 
-If you use our attacks or baselines for your research, please cite [placeholder]()
+If you use our attacks or baselines for your research, please cite [Don't Search for a Search Method](https://arxiv.org/abs/2109.07926)
 
 ```bibtex
-@misc{berger2021,
-    title={Placeholder},
-    author={Placeholder},
-    year={2021},
-    eprint={},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@misc{berger2021dont,
+      title={Don't Search for a Search Method -- Simple Heuristics Suffice for Adversarial Text Attacks}, 
+      author={Nathaniel Berger and Stefan Riezler and Artem Sokolov and Sebastian Ebert},
+      year={2021},
+      eprint={2109.07926},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 
